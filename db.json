@@ -1,0 +1,93 @@
+{
+  "products": [
+    {
+      "id": 15,
+      "title": "Eau De Perfume Spray",
+      "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
+      "price": 30,
+      "discountPercentage": 10.99,
+      "rating": 4.7,
+      "stock": 105,
+      "brand": "Lord - Al-Rehab",
+      "category": "fragrances",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/15/1.jpg",
+        "https://cdn.dummyjson.com/product-images/15/2.jpg",
+        "https://cdn.dummyjson.com/product-images/15/3.jpg",
+        "https://cdn.dummyjson.com/product-images/15/4.jpg",
+        "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Oil Free Moisturizer 100ml",
+      "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.",
+      "price": 40,
+      "discountPercentage": 13.1,
+      "rating": 4.56,
+      "stock": 88,
+      "brand": "Dermive",
+      "category": "skincare",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/18/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/18/1.jpg",
+        "https://cdn.dummyjson.com/product-images/18/2.jpg",
+        "https://cdn.dummyjson.com/product-images/18/3.jpg",
+        "https://cdn.dummyjson.com/product-images/18/4.jpg",
+        "https://cdn.dummyjson.com/product-images/18/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 69,
+      "title": "Golden Watch Pearls Bracelet Watch",
+      "description": "Product details of Golden Watch Pearls Bracelet Watch For Girls - Golden Chain Ladies Bracelate Watch for Women",
+      "price": 47,
+      "discountPercentage": 17.55,
+      "rating": 4.77,
+      "stock": 89,
+      "brand": "Watch Pearls",
+      "category": "womens-watches",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/69/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/69/1.jpg",
+        "https://cdn.dummyjson.com/product-images/69/2.jpg",
+        "https://cdn.dummyjson.com/product-images/69/3.webp",
+        "https://cdn.dummyjson.com/product-images/69/4.jpg",
+        "https://cdn.dummyjson.com/product-images/69/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 72,
+      "title": "Handbag For Girls",
+      "description": "This fashion is designed to add a charming effect to your casual outfit. This Bag is made of synthetic leather.",
+      "price": 23,
+      "discountPercentage": 17.5,
+      "rating": 4.91,
+      "stock": 27,
+      "brand": "LouisWill",
+      "category": "womens-bags",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/72/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/72/1.jpg",
+        "https://cdn.dummyjson.com/product-images/72/2.png",
+        "https://cdn.dummyjson.com/product-images/72/3.webp",
+        "https://cdn.dummyjson.com/product-images/72/4.jpg",
+        "https://cdn.dummyjson.com/product-images/72/thumbnail.webp"
+      ]
+    },
+    {
+      "id": 78,
+      "title": "Rhinestone Korean Style Open Rings",
+      "description": "Fashion Jewellery 3Pcs Adjustable Pearl Rhinestone Korean Style Open Rings For Women",
+      "price": 30,
+      "discountPercentage": 8.02,
+      "rating": 4.69,
+      "stock": 9,
+      "brand": "Fashion Jewellery",
+      "category": "womens-jewellery",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/78/thumbnail.jpg",
+      "images": ["https://cdn.dummyjson.com/product-images/78/thumbnail.jpg"]
+    }
+  ]
+}
