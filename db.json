@@ -185,25 +185,6 @@
       ]
     },
     {
-      "id": 72,
-      "title": "Handbag For Girls",
-      "description": "This fashion is designed to add a charming effect to your casual outfit. This Bag is made of synthetic leather.",
-      "price": 23,
-      "discountPercentage": 17.5,
-      "rating": 4.91,
-      "stock": 27,
-      "brand": "LouisWill",
-      "category": "womens-bags",
-      "thumbnail": "https://cdn.dummyjson.com/product-images/72/thumbnail.webp",
-      "images": [
-        "https://cdn.dummyjson.com/product-images/72/1.jpg",
-        "https://cdn.dummyjson.com/product-images/72/2.png",
-        "https://cdn.dummyjson.com/product-images/72/3.webp",
-        "https://cdn.dummyjson.com/product-images/72/4.jpg",
-        "https://cdn.dummyjson.com/product-images/72/thumbnail.webp"
-      ]
-    },
-    {
       "id": 74,
       "title": "Leather Hand Bag",
       "description": "It features an attractive design that makes it a must have accessory in your collection. We sell different kind of bags for boys, kids, women, girls and also for unisex.",
@@ -239,19 +220,6 @@
         "https://cdn.dummyjson.com/product-images/77/3.jpg",
         "https://cdn.dummyjson.com/product-images/77/thumbnail.jpg"
       ]
-    },
-    {
-      "id": 78,
-      "title": "Rhinestone Korean Style Open Rings",
-      "description": "Fashion Jewellery 3Pcs Adjustable Pearl Rhinestone Korean Style Open Rings For Women",
-      "price": 30,
-      "discountPercentage": 8.02,
-      "rating": 4.69,
-      "stock": 9,
-      "brand": "Fashion Jewellery",
-      "category": "womens-jewellery",
-      "thumbnail": "https://cdn.dummyjson.com/product-images/78/thumbnail.jpg",
-      "images": ["https://cdn.dummyjson.com/product-images/78/thumbnail.jpg"]
     },
     {
       "id": 79,
