@@ -20,6 +20,24 @@
       ]
     },
     {
+      "id": 14,
+      "title": "Non-Alcoholic Concentrated Perfume Oil",
+      "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
+      "price": 120,
+      "discountPercentage": 15.6,
+      "rating": 4.21,
+      "stock": 114,
+      "brand": "Al Munakh",
+      "category": "fragrances",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/14/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/14/1.jpg",
+        "https://cdn.dummyjson.com/product-images/14/2.jpg",
+        "https://cdn.dummyjson.com/product-images/14/3.jpg",
+        "https://cdn.dummyjson.com/product-images/14/thumbnail.jpg"
+      ]
+    },
+    {
       "id": 15,
       "title": "Eau De Perfume Spray",
       "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
@@ -58,6 +76,24 @@
       ]
     },
     {
+      "id": 17,
+      "title": "Tree Oil 30ml",
+      "description": "Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,",
+      "price": 12,
+      "discountPercentage": 4.09,
+      "rating": 4.52,
+      "stock": 78,
+      "brand": "Hemani Tea",
+      "category": "skincare",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/17/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/17/1.jpg",
+        "https://cdn.dummyjson.com/product-images/17/2.jpg",
+        "https://cdn.dummyjson.com/product-images/17/3.jpg",
+        "https://cdn.dummyjson.com/product-images/17/thumbnail.jpg"
+      ]
+    },
+    {
       "id": 18,
       "title": "Oil Free Moisturizer 100ml",
       "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.",
@@ -93,6 +129,22 @@
         "https://cdn.dummyjson.com/product-images/66/3.jpg",
         "https://cdn.dummyjson.com/product-images/66/4.JPG",
         "https://cdn.dummyjson.com/product-images/66/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 68,
+      "title": "Stylish Luxury Digital Watch",
+      "description": "Stylish Luxury Digital Watch For Girls / Women - Led Smart Ladies Watches For Girls",
+      "price": 57,
+      "discountPercentage": 9.03,
+      "rating": 4.55,
+      "stock": 77,
+      "brand": "Luxury Digital",
+      "category": "womens-watches",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/68/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/68/1.jpg",
+        "https://cdn.dummyjson.com/product-images/68/2.jpg"
       ]
     },
     {
@@ -152,6 +204,25 @@
       ]
     },
     {
+      "id": 74,
+      "title": "Leather Hand Bag",
+      "description": "It features an attractive design that makes it a must have accessory in your collection. We sell different kind of bags for boys, kids, women, girls and also for unisex.",
+      "price": 57,
+      "discountPercentage": 11.19,
+      "rating": 4.01,
+      "stock": 43,
+      "brand": "Copenhagen Luxe",
+      "category": "womens-bags",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/74/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/74/1.jpg",
+        "https://cdn.dummyjson.com/product-images/74/2.jpg",
+        "https://cdn.dummyjson.com/product-images/74/3.jpg",
+        "https://cdn.dummyjson.com/product-images/74/4.jpg",
+        "https://cdn.dummyjson.com/product-images/74/thumbnail.jpg"
+      ]
+    },
+    {
       "id": 77,
       "title": "Rose Ring",
       "description": "Brand: The Greetings Flower Colour: RedRing Colour: GoldenSize: Adjustable",
@@ -181,6 +252,19 @@
       "category": "womens-jewellery",
       "thumbnail": "https://cdn.dummyjson.com/product-images/78/thumbnail.jpg",
       "images": ["https://cdn.dummyjson.com/product-images/78/thumbnail.jpg"]
+    },
+    {
+      "id": 79,
+      "title": "Elegant Female Pearl Earrings",
+      "description": "Elegant Female Pearl Earrings Set Zircon Pearl Earings Women Party Accessories 9 Pairs/Set",
+      "price": 30,
+      "discountPercentage": 12.8,
+      "rating": 4.74,
+      "stock": 16,
+      "brand": "Fashion Jewellery",
+      "category": "womens-jewellery",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/79/thumbnail.jpg",
+      "images": ["https://cdn.dummyjson.com/product-images/79/1.jpg"]
     }
   ]
 }
